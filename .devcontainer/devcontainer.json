@@ -1,6 +1,6 @@
 {
   "name": "My Codespace Workspace",
-  "image": "://microsoft.com",
+  "image": "mcr.microsoft.com/devcontainers/base:dev-ubuntu24.04",
   "customizations": {
     "codespaces": {
       "portsAttributes": {
