@@ -1,0 +1,16 @@
+{
+  "name": "My Codespace Workspace",
+  "image": "://microsoft.com",
+  "customizations": {
+    "codespaces": {
+      "portsAttributes": {
+        "1-65535": {
+          "visibility": "public"
+        }
+      },
+      "otherPortsAttributes": {
+        "visibility": "public"
+      }
+    }
+  }
+}
